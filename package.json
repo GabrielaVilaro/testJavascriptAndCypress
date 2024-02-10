@@ -1,0 +1,14 @@
+{
+  "name": "qa-front-kala",
+  "version": "1.0.0",
+  "description": "qa-testing-front-kala",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "Gabriela Vilaro",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.5.1"
+  }
+}
